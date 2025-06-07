@@ -5,11 +5,11 @@
 ![Windows Theme Switcher](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square&logo=windows)
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-purple?style=flat-square&logo=.net)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Release](https://img.shields.io/github/v/release/yourusername/WindowsThemeSwitcher?style=flat-square)
+![Release](https://img.shields.io/github/v/release/Yiewker/WindowsThemeSwitcher?style=flat-square)
 
 一个简单易用的 Windows 10/11 主题切换器，运行在系统托盘中，支持在浅色和深色主题之间快速切换。
 
-[下载最新版本](https://github.com/yourusername/WindowsThemeSwitcher/releases/latest) | [功能演示](#演示) | [使用说明](#使用方法)
+[下载最新版本](https://github.com/Yiewker/WindowsThemeSwitcher/releases/latest) | [功能演示](#演示) | [使用说明](#使用方法)
 
 </div>
 
@@ -27,14 +27,14 @@
 ## 📥 下载安装
 
 ### 方式一：直接下载（推荐）
-1. 访问 [Releases 页面](https://github.com/yourusername/WindowsThemeSwitcher/releases/latest)
+1. 访问 [Releases 页面](https://github.com/Yiewker/WindowsThemeSwitcher/releases)
 2. 下载 `WindowsThemeSwitcher.exe` 文件
 3. 双击运行即可，无需安装
 
 ### 方式二：从源码编译
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/WindowsThemeSwitcher.git
+git clone https://github.com/Yiewker/WindowsThemeSwitcher.git
 cd WindowsThemeSwitcher
 
 # 编译项目（需要 Visual Studio 或 MSBuild）
@@ -68,10 +68,10 @@ msbuild WindowsThemeSwitcher.csproj /p:Configuration=Release
 ## 🎬 演示
 
 ### 主题切换效果
-![主题切换演示](docs/demo.gif)
+<!-- TODO: 插入主题切换效果的 GIF 图片 -->
 
 ### 系统托盘界面
-![系统托盘](docs/tray-menu.png)
+<!-- TODO: 插入系统托盘界面的 GIF 图片 -->
 
 ## ⚙️ 高级功能
 
@@ -186,6 +186,6 @@ WindowsThemeSwitcher/
 
 **[🏠 返回顶部](#windows-主题切换器)**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Yiewker](https://github.com/Yiewker)
 
 </div>
